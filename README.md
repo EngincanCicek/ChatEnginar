@@ -1,4 +1,4 @@
-# ChatEnginer
+# ChatEnginar
 
 Hello!, I will talk about an interesting project that allows you to create your own Arduino chat robot, called ChatEnginar
 
