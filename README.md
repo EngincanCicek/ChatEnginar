@@ -1,13 +1,18 @@
 # ChatEnginar
 
-Hello!, I will talk about an interesting project that allows you to create your own Arduino chat robot, called ChatEnginar
+Hello! Allow me to introduce you to an innovative project, ChatEnginar, a concept which enables you to create your own voice-controlled chatbot.
 
-ChatEnginar uses a microphone to capture sound and sends it to Google Translate to convert it into text. Then, it sends the text to a large language model called ChatGPT to get an answer to your question. ChatGPT sends the answer back to ChatEnginar as text, which is then read out loud to the user through a speaker.
+ChatEnginar is a mobile application written in Kotlin. Its primary function is to interact with users purely through voice. It harnesses the power of your device's microphone to capture your voice and convert it into text using Google Translate or an alternative method.
 
-ChatEnginar is a robot built on an Arduino and contains a simple electronic circuit, making it easy for users to create their own ChatEnginar robots. This project can be a great option for those interested in both electronics and artificial intelligence.
+This transcribed text is then fed into a state-of-the-art language model, ChatGPT, which crafts a response to the user's query. The generated response is converted back into speech using a text-to-speech translator and delivered back to the user.
 
-With the increasing interest in voice assistants and conversation robots, the ChatEnginar project allows you to create your own personal assistant. You can ask your Arduino-based ChatEnginar robot a variety of questions just by speaking.
+ChatEnginar stands out with its minimalist design and strict adherence to voice-based interaction, not allowing text inputs. This feature sets it apart from other chatbots available in the market, making it a truly unique voice-focused conversation bot.
 
-ChatEnginar is both educational and fun. By building your own robot, you can explore new technologies and improve your skills in the fields of artificial intelligence and robotics.
+This project is an excellent exploration ground for those curious about the intersection of mobile development and artificial intelligence. As a hobby project, the development pace might be leisurely than anticipated, but it provides ample opportunities for in-depth learning and experimentation.
 
-This project is a hobby project may be developed slower than I expected
+Join the journey of ChatEnginar and delve into the exciting world of AI-driven conversations!
+
+
+
+
+
